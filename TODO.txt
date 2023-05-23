@@ -1,0 +1,10 @@
+TODO:
+ - Fix corrupted notebooks
+ - Be able to git push/pull from both computers to same branch
+ - Look into FMA dataset split / Implement artist filter / Do valid cross validation Train/Test/Val splits
+ - Hyperparameter/Train Baseline
+ - Augment data
+ - Convert Augmented data to spectrograms
+ - Hyperparameter/Train augmented models
+ - Analysis on average or best models of each type
+ - Write report

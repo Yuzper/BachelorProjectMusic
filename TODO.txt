@@ -1,10 +1,17 @@
 TODO:
- - Fix corrupted notebooks
- - Be able to git push/pull from both computers to same branch
- - Look into FMA dataset split / Implement artist filter / Do valid cross validation Train/Test/Val splits
- - Hyperparameter/Train Baseline
- - Augment data
- - Convert Augmented data to spectrograms
  - Hyperparameter/Train augmented models
  - Analysis on average or best models of each type
  - Write report
+
+
+
+No augmented data in testing
+
+3 Levels of optimization:
+- Hyperparameter for baseline, artectecture etc
+- Individual argemntations and play with different values for those
+     - Log scale space between values (Only the most relevant values, based on paper)
+- Combinations of the different values and test which are best.
+
+- Everything after this will be done analysis on
+- 

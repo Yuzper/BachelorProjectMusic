@@ -1,0 +1,18 @@
+/home/jete/.conda/envs/GPUTraining/
+#######################################################################
+
+
+For each split in CrossValidation part the indicies for
+train and validation is defined, so have the train generator grap from
+the train indicies and the validation generator grap from the validation
+indicies. Thus ensuring that cross validation is done correctly, and
+there is no need to load all the data into memory at once.
+
+#######################
+Raw audio file --> Librosa transform --> save in CSV/pickle format / Load batch directly into ML model
+
+
+
+
+Oral Exam Room:
+2A20

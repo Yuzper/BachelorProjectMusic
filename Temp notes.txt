@@ -1,0 +1,38 @@
+Y1u2z3p4e5r6i7t8u9
+desktop 18
+desktop 25
+desktop 26
+
+
+Baseline:
+171980
+
+Aug1:
+171981
+
+Aug2:
+171982
+
+Slow GPU's:
+
+Baseline:
+172099
+
+Aug1:
+172100
+
+Aug2:
+172101
+
+CNN Only:
+172323
+
+New Arch:
+172414
+172440
+
+172559
+
+
+
+

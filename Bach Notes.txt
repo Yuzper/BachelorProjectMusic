@@ -1,0 +1,22 @@
+Shuffle test data?
+Shuffle validation data?
+Validation data split already proposed
+
+Too complex model
+
+Add explaination of datasplit choosen from paper
+
+Batch Size increase from 64
+
+Link Github
+
+FOCUS back on error analysis
+
+Look into easiere spectrogram conversion
+
+----------------------------------------
+Current Augmentation
+-1 Pitch shift
+
+sacct -j 145362 --format=JobID,JobName,MaxRSS -X --units=G
+
